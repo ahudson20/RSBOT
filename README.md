@@ -2,6 +2,7 @@
 First Runescape/powerbot mining script. *Must start with pickaxe equipped*
 
 # Locations
+* Lumbridge Swamp
 * Varrock West
 * Varrock East
 
